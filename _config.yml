@@ -95,8 +95,8 @@ author:
   google_plus      :
   keybase          :
   instagram        : 
-  lastfm           :
-  linkedin         :
+  lastfm           : 
+  linkedin         : "http://linkedin.com/in/diyadas"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
@@ -175,10 +175,10 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
