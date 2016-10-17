@@ -8,10 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of your Github pages website! This repository was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) by Michael Rose. 
+Diya Das is a fifth year PhD candidate (entering class of 2012) in the Department of Molecular & Cell Biology at UC Berkeley, where she studies molecular mechanisms of regeneration in the olfactory epithelium as a member of the [Ngai Lab](https://sites.google.com/site/ngaineuro/). She is currently engaged in several projects to analyze differentiation and regeneration by olfactory stem cells using single-cell RNA sequencing.
 
-You can use all kinds of markdown here. See [the guide](/markdown/).
+Outside of lab, she's very active in improving the academic and social environment on campus and in the community: among others, she served on the planning committee for the Expanding Your Horizons Conference and the Student Health Advisory Committee for several years, and is currently student Co-President of the MCB Graduate Student & Alumni Association and an organizer for Beyond Academia (speakers, logistics, and expansion). 
 
-## Images
-![alt text](/images/500x300.png "Logo Title Text 1")
 
