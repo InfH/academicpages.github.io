@@ -24,7 +24,7 @@ Work experience
 
 * Career Development Initiative in the Physical Sciences (CDIPS) Data Science Workshop (July 2016)
   * Team developed topic ontology for English Wikipedia articles and classifier for new articles
-
+  
 Skills
 ======
 * Data analysis, statistics
@@ -34,20 +34,22 @@ Skills
 
 Publications
 ======
-  {% for post in site.publications %}
+  {% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}
 
+
 Presentations
 ======
-  {% for post in site.talks %}
+  {% for post in site.talks reversed %}
     {% unless post.talk_type == "Conference proceedings talk" %}
       {% include archive-single-talk-cv.html %}
     {% endunless %}
   {% endfor %}
+  
 
 Teaching
 ======
-  {% for post in site.teaching %}
+  {% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}
