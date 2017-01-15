@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "resume"
+title: "Resume"
 permalink: /resume/
 author_profile: true
 redirect_from:
@@ -11,30 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2017 (expected)
+* PhD in Molecular & Cell Biology, University of California, Berkeley, December 2017 (expected)
+* AB in Molecular Biology & Certificate in Neuroscience (Quantitative & Computational Neuroscience honors track), Princeton University, June 2012
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Rejecting pull requests
-  * Supervisor: Professor Git
+* Graduate Student Researcher, University of California, Berkeley (2012-present)
+  * PI: John Ngai
+  * I analyze single-cell RNA-sequencing data to characterize regeneration in the olfactory epithelium, particularly the lineage trajectories arising from the olfactory stem cell.
+  * California Institute for Regenerative Medicine (CIRM) Predoctoral Fellow (2015)
+  * Elizabeth Einstein Roboz Fellowship (Spring 2015)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Rejecting pull requests
-  * Supervisor: Professor Hub
+* Career Development Initiative in the Physical Sciences (CDIPS) Data Science Workshop (July 2016)
+  * Team developed topic ontology for English Wikipedia articles and classifier for new articles
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Data analysis, statistics
+* Science: molecular biology, developmental biology, stem cell biology, neuroscience, single-cell RNA-sequencing 
+* Programming: R/RStudio, Python, Matlab, Git, some bash
+* Design: Adobe Illustrator, InDesign
 
 Publications
 ======
@@ -42,7 +38,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}
 
-Talks
+Presentations
 ======
   {% for post in site.talks %}
     {% unless post.talk_type == "Conference proceedings talk" %}
