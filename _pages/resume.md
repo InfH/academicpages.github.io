@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "resume"
+permalink: /resume/
 author_profile: true
 redirect_from:
-  - /wordpress/cv/
+  - /wordpress/resume/
 ---
 
 {% include base_path %}
