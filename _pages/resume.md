@@ -14,7 +14,7 @@ Education
 * PhD in Molecular & Cell Biology, University of California, Berkeley, December 2017 (expected)
 * AB in Molecular Biology & Certificate in Neuroscience (Quantitative & Computational Neuroscience honors track), Princeton University, June 2012
 
-Work experience
+Experience
 ======
 * Graduate Student Researcher, University of California, Berkeley (2012-present)
   * PI: John Ngai
@@ -38,15 +38,19 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}
 
-
 Presentations
 ======
   {% for post in site.talks reversed %}
     {% unless post.talk_type == "Conference proceedings talk" %}
       {% include archive-single-talk-cv.html %}
     {% endunless %}
+  {% endfor %} 
+
+Leadership
+======
+  {% for post in site.portfolio %}
+    {% include archive-single.html %}
   {% endfor %}
-  
 
 Teaching
 ======
