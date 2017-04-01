@@ -1,7 +1,6 @@
 ---
 title: "CDIPS Data Science Workshop, *January 2017 - present*"
-excerpt: "The [CDIPS Data Science Workshop](cdips.physics.berkeley.edu/2017-cdips-data-science-workshop/) is a three-week student-run workshop that pairs small teams of grad students and postdocs with industry mentors to work on data science projects. <br />"
-date: 2017-01-01
+excerpt: "The [CDIPS Data Science Workshop](https://cdips.physics.berkeley.edu/2017-cdips-data-science-workshop/) is a three-week student-run workshop that pairs small teams of grad students and postdocs with industry mentors to work on data science projects. <br />"
 collection: portfolio
 ---
 
