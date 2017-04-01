@@ -34,26 +34,24 @@ Skills
 
 Publications
 ======
-  {% for post in site.publications reversed %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}
+  {% endfor %}</ul>
 
 Presentations
 ======
-  {% for post in site.talks reversed %}
-    {% unless post.talk_type == "Conference proceedings talk" %}
-      {% include archive-single-talk-cv.html %}
-    {% endunless %}
-  {% endfor %} 
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
 
 Leadership
 ======
-  {% for post in site.portfolio %}
+  <ul>{% for post in site.portfolio %}
     {% include archive-single.html %}
-  {% endfor %}
+  {% endfor %}</ul>
 
 Teaching
 ======
-  {% for post in site.teaching reversed %}
+  <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}
+  {% endfor %}</ul>
