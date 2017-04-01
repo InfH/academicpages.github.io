@@ -1,0 +1,11 @@
+---
+title: "DataRescue SF Bay (January - February 2017)"
+excerpt: "[DataRescue SF Bay](https://datarescuesfbay.org/) was an event held at the Berkeley Institute for Data Science to archive environmental data from federal websites."
+collection: portfolio
+---
+
+[DataRescue SF Bay](https://datarescuesfbay.org/) was an event held at the Berkeley Institute for Data Science to archive environmental data from federal websites, held on February 11, 2017.
+
+__Roles__: I was one of the first members of the organizing team. I recruited other members of the organizing team as well as attendees. I managed registration, check-in, and logistics emails. 
+
+The event was conceived and executed in 2.5 weeks, and 170 people participated. We submitted over 8,000 URLs to the Internet Archive's End of Term project (NASA and DOE), catalogued all of the datasets associated with those URLs that will need to be manually archived, and archived over 24GB of data from 100+ public datasets. 

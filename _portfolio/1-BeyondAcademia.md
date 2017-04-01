@@ -1,8 +1,10 @@
 ---
-title: "Beyond Academia, *May 2016 - present*"
-excerpt: "Beyond Academia is a group of approximately 15 graduate student and postdoctoral researchers at UC Berkeley whose mission is to provide opportunities for our peers to explore careers outside of the tenure track. Our flagship event is a two-day conference featuring dozens of professionals with PhDs who have successfully transitioned to careers outside the tenure track. <br />"
+title: "Beyond Academia (May 2016 - present)"
+excerpt: "Beyond Academia is an organization of approximately 15 graduate student and postdoctoral researchers at UC Berkeley whose mission is to provide opportunities for our peers to explore careers outside of the tenure track. Our flagship event is a two-day conference featuring dozens of professionals with PhDs who have successfully transitioned to careers outside the tenure track."
 collection: portfolio
 ---
+
+Beyond Academia is an organization of approximately 15 graduate student and postdoctoral researchers at UC Berkeley whose mission is to provide opportunities for our peers to explore careers outside of the tenure track. Our flagship event is a two-day conference featuring dozens of professionals with PhDs who have successfully transitioned to careers outside the tenure track.
 
 Roles
 =====

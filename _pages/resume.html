@@ -1,0 +1,67 @@
+--- 
+layout: archive 
+title: "Resume" 
+permalink: /resume/ 
+author_profile: true 
+redirect_from: 
+  - /cv 
+--- 
+{% include base_path %}
+<h2>Education</h2>
+<hr>
+<ul>
+    <li>PhD in Molecular & Cell Biology, <strong>University of California, Berkeley</strong>, 2012 - present </li>
+    <li>AB in Molecular Biology & Certificate in Neuroscience (Quantitative & Computational Neuroscience honors track), <strong>Princeton University</strong>, 2008 - 2012 </li>
+</ul>
+
+<h2>Experience</h2>
+<hr>
+<ul>
+    <li>Graduate Student Researcher (UC Berkeley, Advisor: John Ngai, May 2013 – present)
+        <p >
+            <strong>Deconstructing lineage trajectories arising from olfactory stem cells at single cell resolution.</strong></p></li>
+    <ul>
+        <li> Investigating how basal stem cells of olfactory epithelium contribute to steady-state neurogenesis and injury-induced regeneration using single-cell RNA-sequencing.</li>
+        <li> Using clustering and lineage trajectory prediction algorithms, developed in collaboration with biostatisticians, to model cell state transitions and cell fate trajectories. </li>
+        <li> Interpreting models to form hypotheses about regulators of biological processes, which are then tested experimentally by our team.</li>
+        <br>
+        <li> One co-first author manuscript under review; one co-first author manuscript in progress.</li>
+        <li> Repository available at <a href="https://github.com/rufletch/p63-HBC-diff">github.com/rufletch/p63-HBC-diff</a>, upon paper acceptance.</li>
+        <li> <strong>California Institute for Regenerative Medicine (CIRM) Predoctoral Fellow</strong> (January 2015 - December 2015)</li>
+        <li> <strong>Elizabeth Einstein Roboz Fellowship</strong> (Spring 2015)</li>
+    </ul>
+    <li> Career Development Initiative in the Physical Sciences Data Science Workshop (UC Berkeley, July 2016)</li>
+    <ul>
+        <li>Developed topic ontology for English Wikipedia articles and classifier for new articles.</li>
+        <li> Repository available at <a href="https://github.com/diyadas/Topic-Ontology">github.com/diyadas/Topic-Ontology</a></li>
+    </ul>
+    <li> Undergraduate Researcher (Princeton University, Advisor: Sam Wang, June 2009 – June 2012) </li>
+    <ul>
+        <li> Awarded <strong>John Brinster, Class of 1943, Prize (2012) for best senior thesis in Neuroscience</strong>: A Quantitative Analysis of Temperament and Connections to Neuroanatomy in the Domestic Dog (<i>Canis familiaris</i>).</li>
+    </ul>
+</ul>
+
+<h2>Skills</h2>
+<hr>
+<ul>
+    <li><strong>Knowledge</strong>: Data analysis, statistics, molecular biology, developmental biology, stem cell biology, neuroscience, single-cell RNA-sequencing; logistics (event organization)</li>
+    <li><strong>Tools</strong>: R/RStudio, Python, MATLAB, Git, some bash, molecular biology lab techniques (fluorescence-activated cell sorting, in situ hybridization), Adobe Illustrator, InDesign
+    </li>
+</ul>
+
+<h2>Publications</h2>
+<hr>
+<ul>{% for post in site.publications reversed %} {% include archive-single-cv.html %} {% endfor %}</ul>
+
+<h2>Presentations</h2>
+<hr>
+<ul>{% for post in site.talks reversed %} {% include archive-single-talk-cv.html %} {% endfor %}</ul>
+
+<h2> Leadership</h2>
+<p><small>Click on the headers for more details of my involvement.</small></p>
+<hr>
+<ul>{% for post in site.portfolio %} {% include archive-single-port.html %} {% endfor %}</ul>
+
+<h2>Teaching</h2>
+<hr>
+<ul>{% for post in site.teaching reversed %} {% include archive-single-cv.html %} {% endfor %}</ul>
