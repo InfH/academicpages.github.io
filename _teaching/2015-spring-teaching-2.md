@@ -8,13 +8,6 @@ date: 2015-01-01
 location: "Berkeley, CA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+- Taught weekly discussion sections for two sections of genetics, genomics, and cell biology for upper-level undergraduates.
+- Held office hours, answered questions on and moderated class discussion board, organized exam review sessions, and wrote review, quiz and exam questions.
+- Coordinated with 3 professors, 4 other Graduate Student Instructors, and several graders to administer and grade exams in a timely manner.

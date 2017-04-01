@@ -8,13 +8,6 @@ date: 2014-01-01
 location: "Berkeley, CA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+- Taught weekly discussion sections for two sections of introductory neurobiology for upper-level undergraduates.
+- Held office hours, organized exam review sessions, and wrote quiz questions.
+- Coordinated with 3 professors, 1 other Graduate Student Instructor, and several graders to administer and grade exams in a timely manner.
