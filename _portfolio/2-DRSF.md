@@ -1,6 +1,6 @@
 ---
-title: "DataRescue SF Bay (January - February 2017)"
-excerpt: "[DataRescue SF Bay](https://datarescuesfbay.org/) was an event held at the Berkeley Institute for Data Science to archive environmental data from federal websites."
+title: "DataRescue SF Bay (January 2017 - February 2017)"
+excerpt: "_Organizer_<br/> [DataRescue SF Bay](https://datarescuesfbay.org/) was an event held at the Berkeley Institute for Data Science to archive environmental data from federal websites.<br><br>"
 collection: portfolio
 ---
 

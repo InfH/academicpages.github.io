@@ -1,0 +1,15 @@
+---
+title: "Expanding Your Horizons at Berkeley (September 2012 - March 2016)"
+excerpt: "_Finance & Fundraising Committee, Finance Agent & Signatory, September 2012 - April 2015_ <br/>[Expanding Your Horizons at Berkeley](https://www.ocf.berkeley.edu/~eyh/) is a graduate student organization at UC Berkeley that plans an annual day of hands-on workshops for 300-500 middle school girls to encourage their pursuits in STEM fields. <br><br>"
+collection: portfolio
+---
+
+[Expanding Your Horizons at Berkeley](https://www.ocf.berkeley.edu/~eyh/) is a graduate student organization at UC Berkeley that plans an annual day of hands-on workshops for middle school girls to encourage their pursuits in STEM fields. I joined the planning committee of approximately 40 students in its second year, for which we expanded the conference from ~200 middle school participants to over 300 middle school participants. The conference grew steadily during my tenure, to over 450 middle school participants in 2015.
+
+__Roles__:
+- Finance and Fundraising Committee (2012 - 2015)
+  - GA/ASUC Finance Agent: Ensured funds allocated by the Associated Students of the University of California (ASUC) and UC Berkeley's Graduate Assembly (GA) were spent according to guidelines.
+  - Wrote and managed budget, applied for grants, approved reimbursement requests.
+  - Annual budget approx. $19K, including in-kind donations. 
+- Signatory (2012 - 2015): Ensured that group operated within LEAD Center (UC Berkeley student organization) regulations.
+- Logistics Volunteer (2016): Escorted participants to their designated locations.

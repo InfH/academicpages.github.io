@@ -1,0 +1,9 @@
+---
+title: "Student Health Advisory Committee (September 2012 - April 2016)"
+excerpt: "_Graduate Student Representative_ <br/>The [Student Health Advisory Committee](http://uhs.berkeley.edu/students/SHAC/) is an advisory committee to University Health Services, comprised of representatives of Berkeley student communities. <br><br>"
+collection: portfolio
+---
+
+The [Student Health Advisory Committee](http://uhs.berkeley.edu/students/SHAC/) is an advisory committee to University Health Services, comprised of representatives of Berkeley student communities. The committee meets monthly during the academic year to address student concerns regarding health services. 
+
+__Roles__: I served as one of three graduate student at-large representatives for four years. I also provided student input at UHS staff meetings and interviews of potential UHS hires (health educator, psychiatrist, psychologist).
