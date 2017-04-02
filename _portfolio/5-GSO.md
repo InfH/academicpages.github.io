@@ -1,5 +1,5 @@
 ---
-title: "MCB Graduate Student Organization (June 2013 – June 2016)"
+title: "MCB Graduate Student Organization (June 2013 – present)"
 excerpt: "_Secretary, June 2014 - June 2016_ <br/>The [MCB Graduate Student Organization](https://mcb.berkeley.edu/groups/gso) serves as a liaison between the Graduate Assembly, the department, and our fellow students.<br><br>"
 collection: portfolio
 ---
