@@ -11,6 +11,7 @@ __Roles__
 * Recruiting mentors 
 * Writing the application and screening participants
 * Organizing the pre-workshop week, an orientation week aimed at helping participants get up to speed with useful tools (e.g. NumPy, pandas, scikit-learn)
+* Teaching during the pre-workshop tutorials (see talks)
 * Organizing the opening and closing ceremonies
 * Organizing site visits and talks by data scientists on campus
 * Checking in with participants and mentors

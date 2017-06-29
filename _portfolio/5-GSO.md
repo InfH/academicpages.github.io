@@ -1,5 +1,5 @@
 ---
-title: "MCB Graduate Student Organization (June 2013 – present)"
+title: "MCB Graduate Student Organization (June 2013 – June 2017)"
 excerpt: "_Secretary, June 2014 - June 2016_ <br/>The [MCB Graduate Student Organization](https://mcb.berkeley.edu/groups/gso) serves as a liaison between the Graduate Assembly, the department, and our fellow students.<br><br>"
 collection: portfolio
 ---
@@ -11,3 +11,5 @@ __Roles__: I joined the GSO through my election to the [Graduate Affairs Committ
 - Helped update the constitution, to match existing processes and clarify language
 - Coordinated meetings and votes
 - Served as liaison between the GSO and other campus groups, as maintainer of the website and email account
+
+I remained an officer of the GSO through June 2017, as liaison to the MCB Graduate Student & Alumni Association.
