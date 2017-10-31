@@ -6,7 +6,10 @@ main:
   - title: "Research"
     url: /research/
     
-  - title: "Papers & Presentations"
+  - title: "Publications"
+    url: /publications/
+    
+  - title: "Presentations"
     url: /presentations/
 
   - title: "Leadership"
