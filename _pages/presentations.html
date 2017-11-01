@@ -6,7 +6,20 @@ author_profile: true
 ---
 
 {% include base_path %}
- 
-{% for post in site.talks reversed %}
+
+Categories: <a href = "#research">Research Talks & Posters</a> | <a href = "#tutorials">Tutorials</a>
+
+<a name="research"></a><h3>Research Talks & Posters</h3>
+
+<ul>{% for post in site.talks reversed %}
+ {% if post.type == "Poster" or post.type == "Talk" %}
   {% include archive-single-talk.html %}
-{% endfor %}
+ {% endif %}
+    {% endfor %}</ul>
+
+<a name="tutorials"></a><h3><h3>Tutorials</h3> 
+<ul>{% for post in site.talks reversed %}
+ {% if post.type == "Tutorial" %}
+  {% include archive-single-talk.html %}
+ {% endif %}
+    {% endfor %}</ul>
