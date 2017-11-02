@@ -2,7 +2,8 @@
 title: "Defining Lineage Trajectories and Cell Fate Transitions During Tissue Regeneration Using Single-Cell RNA Sequencing"
 collection: talks
 type: "Poster"
-permalink: /talks/2016-04-24-poster-2
+permalink: /talks/2016-04-24-post-hbcregen1
+excerpt: "I presented a poster on the preliminary findings from our single-cell studies of injury-induced regeneration in the olfactory epithelium."
 venue: "Berkeley Stem Cell Center Retreat"
 date: 2016-04-24 - 2016-04-25
 location: "Asilomar, California"

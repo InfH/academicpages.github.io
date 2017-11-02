@@ -7,10 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
-Categories: <a href = "#research">Research Talks & Posters</a> | <a href = "#tutorials">Tutorials</a>
-
-<a name="research"></a><h3>Research Talks & Posters</h3>
-
+<p>Categories: <a href = "#research"><u>Research Talks & Posters</a></u> | <a href = "#tutorials"><u>Tutorials</u></a></p>
+<br>
+<a name="research"></a><h3><h3>Research Talks & Posters</h3> 
 <ul>{% for post in site.talks reversed %}
  {% if post.type == "Poster" or post.type == "Talk" %}
   {% include archive-single-talk.html %}

@@ -2,7 +2,8 @@
 title: "Neural and Non-Neural Epithelia Utilize Overlapping Gene Repertoires During Regeneration"
 collection: talks
 type: "Poster"
-permalink: /talks/2014-05-04-poster-1b
+permalink: /talks/2014-05-04-poster-generepertoires
+excerpt: "We discovered that among other genes highly expressed after injury, the olfactory epithelium activates a number of genes associated with epidermal wound response and differentiation."
 venue: "Berkeley Stem Cell Center Retreat"
 date: 2014-05-04 - 2014-05-05
 location: "Asilomar, California"

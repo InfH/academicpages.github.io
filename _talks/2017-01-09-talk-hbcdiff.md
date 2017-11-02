@@ -2,7 +2,7 @@
 title: "Deconstructing Olfactory Stem Cell Trajectories at Single Cell Resolution"
 collection: talks
 type: "Talk"
-permalink: /talks/2017-01-09-talk-1
+permalink: /talks/2017-01-09-talk-hbcdiff
 venue: "UC Berkeley Developmental & Regenerative Biology Retreat"
 date: 2017-01-09
 location: "Berkeley, CA"

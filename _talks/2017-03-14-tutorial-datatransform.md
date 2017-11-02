@@ -2,7 +2,8 @@
 title: "Data Tidying and Transformation in R & Python"
 collection: talks
 type: "Tutorial"
-permalink: /talks/2017-03-14-tutorial-3
+permalink: /talks/2017-03-14-tutorial-datatransform
+excerpt: "I led an interactive tutorial on the basics of data tidying & transformation in R; my colleague David DeTomaso (Python) and I interspersed our presentations so as to aid both R and Python users in learning the other language by making clear analogies."
 venue: "UC Berkeley - The Hacker Within (Berkeley Institute for Data Science)"
 date: 2017-03-14
 location: "Berkeley, California"

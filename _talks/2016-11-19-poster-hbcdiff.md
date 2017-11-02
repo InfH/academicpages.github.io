@@ -2,7 +2,8 @@
 title: "Deconstructing Olfactory Stem Cell Trajectories at Single Cell Resolution"
 collection: talks
 type: "Poster"
-permalink: /talks/2016-11-19-poster-3
+permalink: /talks/2016-11-19-poster-hbcdiff
+excerpt: "I presented our preliminary analyses of homeostatic differentiation of olfactory stem cells. This work was later [published as a manuscript](/publications/2017-06-01-csc)."
 venue: "UC Berkeley Computational Biology Retreat"
 date: 2016-11-19 - 2016-11-20
 location: "Marshall, California"

@@ -7,8 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-Click on the titles of the organizations below to see more details about my involvement.
-{% for post in site.portfolio %}
-  {% include archive-single-port.html %}
-{% endfor %}
+<ul>{% for post in site.portfolio reversed %}
+  <li>{% include archive-single-port.html %}</li>
+    <br>
+    {% endfor %}</ul>
 
