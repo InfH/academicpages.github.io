@@ -37,6 +37,9 @@
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
     {% if post.venue%}<p class="archive__item-excerpt" itemprop="description">{{ post.citation }}</p> {% endif %}
+     {% if post.excerpt %}
+        <p class="archive__item-excerpt" itemprop="description"><p><font size="-0.5">{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<u><strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></u><br></font></p></p>
+    {% endif %}
     </li>
  </article>
 </div>

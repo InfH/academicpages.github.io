@@ -2,11 +2,11 @@
 title: "Injury Activates Transient Olfactory Stem Cell States With Diverse Lineage Capacities"
 collection: talks
 type: "Poster"
-permalink: /talks/2017-11-07-poster-hbcregen
-excerpt: "I presented key findings from our analyses of injury-induced regeneration of the olfactory epithelium. This work will soon be [published as a manuscript](/publications/2017-12-01-csc2)."
-venue: "Moore-Sloan Data Science Environments Summit"
-date: 2017-11-05 - 2017-11-08
-location: "New Orleans, Louisiana"
+permalink: /talks/2017-11-18-poster-hbcregen
+excerpt: "I will be presenting our work on injury-induced regeneration of the olfactory epithelium at the Center for Computational Biology Retreat."
+venue: "UC Berkeley Center for Computational Biology Retreat"
+date: 2017-11-18 - 2017-11-19
+location: "Petaluma, California"
 ---
 
 

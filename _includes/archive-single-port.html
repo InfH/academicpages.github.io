@@ -36,7 +36,7 @@
     </h3>
 
     {% if post.excerpt %}
-    <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<u><strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></u><br></p></p>
+    <p class="archive__item-excerpt" itemprop="description"><p><font size="-0.5">{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<u><strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></u><br></font></p></p>
     {% endif %}
     
   </article>
