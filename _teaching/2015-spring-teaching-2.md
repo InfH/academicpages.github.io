@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/mcb104
 venue: "UC Berkeley, Department of Molecular & Cell Biology"
-date: 2015-01-01
+date: 2015-01-13 - 2015-05-15
 location: "Berkeley, CA"
 ---
 
