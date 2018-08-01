@@ -36,9 +36,9 @@
 
     
     {% if post.venue and post.date %}
-      <p class="page__date">{{ post.venue }}, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+      <p class="page__date">{{ post.venue }}, {{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }} </p>
     {% elsif post.date %}
-      <p class="page__date">{{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
+      <p class="page__date">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</p>
     {% endif %}
 
     {% if post.excerpt %}
