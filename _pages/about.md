@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "About me"
+title: "Hi, I'm Diya, wearer of many hats."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-## Hi, I'm Diya, wearer of many hats.
 
 I'm a molecular biologist and data scientist, with a primary appointment as a **Postdoctoral Researcher** in [John Ngai's lab](http://mcb.berkeley.edu/labs/ngai) at UC Berkeley. I'm also a **Moore-Sloan Data Science Fellow** at the [Berkeley Institute for Data Science](https://bids.berkeley.edu/). In both capacities, I study how olfactory stem cells make neurons (or don't) in adults. 
 
