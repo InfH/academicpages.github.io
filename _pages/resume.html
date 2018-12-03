@@ -70,8 +70,21 @@ redirect_from:
 <ul>{% for post in site.publications reversed %} {% include archive-single-cv.html %} {% endfor %}</ul>
 
 <h2>Presentations</h2>
+    <br>Categories: <a href = "#research"><u>Research Talks & Posters</a></u> | <a href = "#tutorials"><u>Tutorials</u></a>
 <hr>
-<ul>{% for post in site.talks reversed %} {% include archive-single-talk-cv.html %} {% endfor %}</ul>
+<a name="research"></a><h3>Research Talks & Posters</h3> 
+<ul>{% for post in site.talks reversed %}
+ {% if post.type == "Poster" or post.type == "Talk" %}
+  {% include archive-single-talk-cv.html %}
+ {% endif %}
+    {% endfor %}</ul>
+
+<a name="tutorials"></a><h3>Tutorials</h3> 
+<ul>{% for post in site.talks reversed %}
+ {% if post.type == "Tutorial" %}
+  {% include archive-single-talk-cv.html %}
+ {% endif %}
+    {% endfor %}</ul>
 
 <h2> Leadership</h2>
 <hr>

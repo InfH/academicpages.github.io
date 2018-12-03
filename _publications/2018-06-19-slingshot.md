@@ -17,4 +17,5 @@ The associated R package can be found on Bioconductor [here](http://bioconductor
 
 ## Preprint
 A version of this paper was previously published as a preprint. The final peer-reviewed version is substantially expanded. The citation for the preprint is as follows:
-Kelly Street, Davide Risso, Russell B. Fletcher, <b>Diya Das</b>, John Ngai, Nir Yosef, Elizabeth Purdom, and Sandrine Dudoit. (2017). Slingshot: Cell lineage and pseudotime inference for single-cell transcriptomics. <i>bioRxiv</i> 128843; doi: https://doi.org/10.1101/128843.
+
+Kelly Street, Davide Risso, Russell B. Fletcher, Diya Das, John Ngai, Nir Yosef, Elizabeth Purdom, and Sandrine Dudoit. (2017). Slingshot: Cell lineage and pseudotime inference for single-cell transcriptomics. <i>bioRxiv</i> 128843; doi: [https://doi.org/10.1101/128843](https://doi.org/10.1101/128843).
