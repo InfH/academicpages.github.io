@@ -8,23 +8,25 @@ author_profile: true
 {% include base_path %}
 
 <a href = "#talks"><u>Talks</a></u> | <a href = "#tutorials"><u>Tutorials</u></a> | <a href = "#posters"><u>Posters</a></u>
+
 <a name="talks"></a><h3>Talks</h3> 
 <ul>{% for post in site.talks reversed %}
- {% if post.type == "Talk" %}
-  {% include archive-single-talk.html %}
- {% endif %}
-    {% endfor %}</ul>
+{% if post.type == "Talk" %}
+{% include archive-single-talk.html %}
+{% endif %}
+{% endfor %}
+</ul>
 
 <a name="tutorials"></a><h3>Tutorials</h3> 
 <ul>{% for post in site.talks reversed %}
- {% if post.type == "Tutorial" %}
-  {% include archive-single-talk.html %}
- {% endif %}
-    {% endfor %}</ul>
+{% if post.type == "Tutorial" %}
+{% include archive-single-talk.html %}
+{% endif %}
+{% endfor %}</ul>
 
-<a name="posters"></a><h3>Talks</h3> 
+<a name="posters"></a><h3>Posters</h3> 
 <ul>{% for post in site.talks reversed %}
- {% if post.type == "Poster" %}
-  {% include archive-single-talk.html %}
- {% endif %}
-    {% endfor %}</ul>
+{% if post.type == "Poster" %}
+{% include archive-single-talk.html %}
+{% endif %}
+{% endfor %}</ul>
