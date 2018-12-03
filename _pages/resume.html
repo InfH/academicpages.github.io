@@ -8,14 +8,12 @@ redirect_from:
 --- 
 {% include base_path %}
 <h2> <span style="line-height: 1.1;">Education</h2>
-<hr>
 <ul>
     <li>PhD in Molecular & Cell Biology, <strong>University of California, Berkeley</strong>, 2012 - 2018 </li>
     <li>AB in Molecular Biology & Certificate in Neuroscience (Quantitative & Computational Neuroscience honors track), <strong>Princeton University</strong>, 2008 - 2012</li>
 </ul>
 
 <h2>Skills</h2>
-<hr>
 <ul>
     <li><strong>Knowledge</strong>: Data analysis, statistics, molecular biology, developmental biology, stem cell biology, neuroscience, single-cell RNA-sequencing; logistics (event organization)</li>
     <li><strong>Tools</strong>: R/RStudio, Python, MATLAB, Git, some bash, molecular biology lab techniques (fluorescence-activated cell sorting, in situ hybridization), Adobe Illustrator, InDesign
@@ -23,7 +21,6 @@ redirect_from:
 </ul>    
     
 <h2>Experience</h2>
-<hr>
 <ul>
     <li>Postdoctoral Researcher (UC Berkeley, Advisor: John Ngai, June 2018 – Present)
         <br/>
@@ -54,7 +51,7 @@ redirect_from:
         <li><strong>California Institute for Regenerative Medicine (CIRM) Predoctoral Fellow</strong> (January 2015 - December 2015)</li>
         <li><strong>Elizabeth Einstein Roboz Fellowship</strong> (Spring 2015)</li>
     </span></ul>
-    <li> Career Development Initiative in the Physical Sciences Data Science Workshop (UC Berkeley, July 2016)</li>
+    <li> CDIPS Data Science Workshop (UC Berkeley, July 2016)</li>
     <ul><span style="font-size: medium;"> 
         <li>Developed topic ontology for English Wikipedia articles and classifier for new articles.</li>
         <li> Repository available at <a href="https://github.com/diyadas/Topic-Ontology">github.com/diyadas/Topic-Ontology</a></li>
@@ -66,30 +63,32 @@ redirect_from:
 </ul>
 
 <h2>Publications</h2> 
-<hr>
+<i>Asterisk indicates co-first authorship.</i>
 <ul>{% for post in site.publications reversed %} {% include archive-single-cv.html %} {% endfor %}</ul>
 
 <h2>Presentations</h2>
-    <br>Categories: <a href = "#research"><u>Research Talks & Posters</a></u> | <a href = "#tutorials"><u>Tutorials</u></a>
-<hr>
-<a name="research"></a><h3>Research Talks & Posters</h3> 
+<a href = "#talks"><u>Talks</a></u> | <a href = "#tutorials"><u>Tutorials</u></a> | <a href = "#posters"><u>Posters</a></u>
+<a name="talks"></a><h3>Talks</h3> 
 <ul>{% for post in site.talks reversed %}
- {% if post.type == "Poster" or post.type == "Talk" %}
+ {% if post.type == "Talk" %}
   {% include archive-single-talk-cv.html %}
  {% endif %}
     {% endfor %}</ul>
-
 <a name="tutorials"></a><h3>Tutorials</h3> 
 <ul>{% for post in site.talks reversed %}
  {% if post.type == "Tutorial" %}
   {% include archive-single-talk-cv.html %}
  {% endif %}
     {% endfor %}</ul>
+<a name="posters"></a><h3>Posters</h3> 
+<ul>{% for post in site.talks reversed %}
+ {% if post.type == "Poster" %}
+  {% include archive-single-talk-cv.html %}
+ {% endif %}
+    {% endfor %}</ul>
 
 <h2> Leadership</h2>
-<hr>
 <ul>{% for post in site.portfolio reversed %} {% include archive-single-port.html %} {% endfor %}</ul>
 
 <h2>Teaching</h2>
-<hr>
 <ul>{% for post in site.teaching reversed %} {% include archive-single-cv.html %} {% endfor %}</ul>

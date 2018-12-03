@@ -7,18 +7,24 @@ author_profile: true
 
 {% include base_path %}
 
-<p>Categories: <a href = "#research"><u>Research Talks & Posters</a></u> | <a href = "#tutorials"><u>Tutorials</u></a></p>
-<br>
-<a name="research"></a><h3><h3>Research Talks & Posters</h3> 
+<a href = "#talks"><u>Talks</a></u> | <a href = "#tutorials"><u>Tutorials</u></a> | <a href = "#posters"><u>Posters</a></u>
+<a name="talks"></a><h3>Talks</h3> 
 <ul>{% for post in site.talks reversed %}
- {% if post.type == "Poster" or post.type == "Talk" %}
+ {% if post.type == "Talk" %}
   {% include archive-single-talk.html %}
  {% endif %}
     {% endfor %}</ul>
 
-<a name="tutorials"></a><h3><h3>Tutorials</h3> 
+<a name="tutorials"></a><h3>Tutorials</h3> 
 <ul>{% for post in site.talks reversed %}
  {% if post.type == "Tutorial" %}
+  {% include archive-single-talk.html %}
+ {% endif %}
+    {% endfor %}</ul>
+
+<a name="posters"></a><h3>Talks</h3> 
+<ul>{% for post in site.talks reversed %}
+ {% if post.type == "Poster" %}
   {% include archive-single-talk.html %}
  {% endif %}
     {% endfor %}</ul>

@@ -6,7 +6,7 @@ excerpt: 'Stable and accurate inference of branching trajectories is an importan
 date: 2018-06-19
 venue: BMC Genomics
 paperurl: https://doi.org/10.1186/s12864-018-4772-0
-citation: 'Kelly Street, Davide Risso, Russell B. Fletcher, <b>Diya Das</b>, John Ngai, Nir Yosef, Elizabeth Purdom, and Sandrine Dudoit. (2018). Slingshot: Cell lineage and pseudotime inference for single-cell transcriptomics. <i>BMC Genomics</i> 19, 477.'
+citation: 'Kelly Street, Davide Risso, Russell B. Fletcher, <b>Diya Das</b>, John Ngai, Nir Yosef, Elizabeth Purdom and Sandrine Dudoit. (2018). Slingshot: Cell lineage and pseudotime inference for single-cell transcriptomics. <i>BMC Genomics</i> 19, 477.'
 ---
 
 ## Abstract

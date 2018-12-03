@@ -2,7 +2,7 @@
 title: "clusterExperiment and RSEC: A Bioconductor package and framework for clustering of single-cell and other large gene expression datasets"
 collection: publications
 permalink: /publications/2018-09-04-clusterExperiment
-excerpt: 'Clustering of genes and/or samples is a common task in gene expression analysis. With the increasing popularity of single-cell transcriptome sequencing, many experiments are creating large gene expression datasets with the goal of detecting previously unknown heterogeneity within cells. It is common in the detection of novel subtypes to run many clustering algorithms, as well as rely on subsampling and ensemble methods to improve robustness. We introduce a Bioconductor R package, clusterExperiment, that implements a general and flexible strategy we entitle Resampling-based Sequential Ensemble Clustering (RSEC).'
+excerpt: 'With the increasing popularity of single-cell transcriptome sequencing, many experiments are creating large gene expression datasets with the goal of detecting previously unknown heterogeneity within cells. We introduce a Bioconductor R package, clusterExperiment, that implements a general and flexible clustering strategy we entitle Resampling-based Sequential Ensemble Clustering (RSEC).'
 date: 2018-09-04
 venue: PLOS Computational Biology
 paperurl: https://doi.org/10.1371/journal.pcbi.1006378
