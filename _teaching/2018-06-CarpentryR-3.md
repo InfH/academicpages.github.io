@@ -1,7 +1,6 @@
 ---
 title: "Intro to Shell, Git and R"
 collection: teaching
-type: "Carpentries Workshop"
 permalink: /teaching/carpentry-r
 venue: "Berkeley Institute for Data Science"
 date: 2018-06-11 - 2018-06-12

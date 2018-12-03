@@ -42,7 +42,7 @@
     {% endif %}
 
     {% if post.type %}
-    <p class="archive__item-excerpt" itemprop="description">{{ post.type | markdownify | remove: '<p>' | remove: '</p>' }}.<u><strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></u></p>
+    <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<u><strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></u></p>
 </p>
     {% endif %}
 

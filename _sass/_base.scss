@@ -2,6 +2,23 @@
    BASE ELEMENTS
    ========================================================================== */
 
+.column {
+    float: left;
+}
+
+.left {
+    width: 50%;
+}
+
+.right {
+    width: 50%;
+}
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
 body {
   margin: 0;
   padding: 0;

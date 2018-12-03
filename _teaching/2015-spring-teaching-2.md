@@ -1,7 +1,6 @@
 ---
 title: "MCB 104: Genetics, Genomics & Cell Biology"
 collection: teaching
-type: "Undergraduate course"
 permalink: /teaching/mcb104
 venue: "UC Berkeley Department of Molecular & Cell Biology"
 date: 2015-01-13 - 2015-05-15

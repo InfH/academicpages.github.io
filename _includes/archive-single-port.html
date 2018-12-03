@@ -35,6 +35,10 @@
       {% endif %}
     </h3>
 
+    {% if post.venue and post.date %}
+      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }} | {{ post.venue }},  {{post.location}} </p>
+    {% endif %}
+        
     {% if post.excerpt %}
     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<u><strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></u><br></font></p>
     {% endif %}

@@ -1,7 +1,6 @@
 ---
 title: "MCB 160: Introduction to Neurobiology"
 collection: teaching
-type: "Undergraduate course"
 permalink: /teaching/mcb160
 venue: "UC Berkeley Department of Molecular & Cell Biology"
 date: 2014-08-22 - 2014-12-20
