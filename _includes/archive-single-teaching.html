@@ -36,13 +36,13 @@
 
     
     {% if post.venue and post.date %}
-      <p class="page__date">{{ post.venue }}, {{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }} </p>
+      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }} | {{ post.venue }},  {{post.location}} </p>
     {% elsif post.date %}
       <p class="page__date">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</p>
     {% endif %}
 
     {% if post.excerpt %}
-    <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}</p></p>
+    <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}</p>
 </p>
     {% endif %}
 
