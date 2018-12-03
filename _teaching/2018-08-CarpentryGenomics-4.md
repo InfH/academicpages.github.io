@@ -1,12 +1,11 @@
 ---
 title: "Intro to Genomics Data Wrangling"
 collection: teaching
-type: "Workshop"
+type: "Carpentries Workshop"
 permalink: /teaching/carpentry-genomics
 venue: "Berkeley Institute for Data Science"
 date: 2018-08-06 - 2018-08-07
 location: "Berkeley, CA"
-excerpt: "Carpentries Workshop."
 ---
 
 * Organized Data Carpentry Workshop for 40 learners (mainly UC Berkeley graduate students and postdocs)
