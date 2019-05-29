@@ -15,6 +15,9 @@ I'm interested in how olfactory stem cells become activated and the choices they
 <br>
 
 ### Links to writing about my research:
-1. [Sniffing out stem cell fates in the nose.](https://web.archive.org/web/20180825201008/https://news.berkeley.edu/2017/05/11/sniffing-out-stem-cell-fates-in-the-nose/)
+1. [Unlocking the secrets of stem cell renewal.](https://bids.berkeley.edu/news/unlocking-secrets-stem-cell-renewal)
 
 2. [The promise of stem cells: Regeneration in the adult nervous system.](https://web.archive.org/web/20180313133147/http://neuroscience.berkeley.edu:80/promise-stem-cells-regeneration-adult-nervous-system/)
+
+3. [Sniffing out stem cell fates in the nose.](https://web.archive.org/web/20180825201008/https://news.berkeley.edu/2017/05/11/sniffing-out-stem-cell-fates-in-the-nose/)
+
