@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-_This page currently refers to my graduate and postdoctoral research._
+_This page refers to my graduate and postdoctoral research._
 
 I applied quantitative methods to make predictions about the regulation of complex biological processes, including stem cell differentiation and tissue regeneration. My research was focused on identifying and interpreting lineage trajectories that arise from the stem cells of the olfactory epithelium. 
 

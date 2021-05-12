@@ -25,11 +25,9 @@ redirect_from:
     <div class="column left">
         <h2>Skills</h2>
         <ul>
-            <li>generation of biological models from genomic data</li>
             <li>single-cell RNA-sequencing analysis</li>
-            <li>assay for transposase-accessible chromatin sequencing (ATAC-seq) and analysis</li>
-            <li>computational methods instruction: Carpentries instructor and lesson curriculum maintainer</li>
-            <li>event organization and logistics</li>
+            <li>assay for transposase-accessible chromatin sequencing (ATAC-seq)</li>
+            <li>assorted molecular biology lab techniques (FACS, PCR, IHC, etc.)</li>
         </ul>
     </div>
     <div class="column right">
@@ -37,32 +35,31 @@ redirect_from:
 <ul>
     <li>High performance computing</li>
     <li>R/RStudio</li>
-    <li>Python (pandas, dask)</li>
-    <li>MATLAB</li>
+    <li>Python</li>
     <li>Bash</li>
-    <li>Git/GitHub</li>
-    <li>Adobe Illustrator and InDesign</li>
         </ul>
     </div>
 </div>
     
 <h2>Experience</h2>
 <ul>
-    <li>Informatics Analyst II, Development Sciences Informatics, <b>Genentech</b> (June 2019 – Present)
+    <li>Development Sciences Informatics, <b>Genentech</b>
+    <br>Informatics Analyst III (May 2021 – Present)
+    <br>Informatics Analyst II (June 2019 – April 2021)
     </li>
     <li>Lab of John Ngai, <b>UC Berkeley</b>
     <br>Postdoctoral Researcher (June 2018 – May 2019)
     <ul><span style="font-size: medium;"> 
         <li>Investigated the contribution of basal stem cells to injury-induced regeneration using larger single-cell RNA-sequencing datasets (10X Genomics Chromium platform).</li>
         <li>Assisted colleagues with analysis of single-cell RNA-sequencing datasets of olfactory bulb and cortex.</li>
-        <li>One review article published and one workshop given.</li>
+        <li>Two review articles published, one research paper published, and one conference workshop given.</li>
     </span></ul>
     Graduate Student Researcher (May 2013 – May 2018)
     <ul><span style="font-size: medium;"> 
         <li> Investigated how basal stem cells of olfactory epithelium contribute to steady-state neurogenesis and injury-induced regeneration using single-cell RNA-sequencing.</li>
         <li> Used clustering and lineage trajectory prediction algorithms, developed in collaboration with biostatisticians, to model cell state transitions and cell fate trajectories. </li>
         <li> Interpreted models to form hypotheses about regulators of biological processes, which were then tested experimentally by our team.</li>
-        <li>Two co-first author papers published, two other methods papers published.</li>
+        <li>Two co-first author research papers published, two methods papers published.</li>
         <li>Code available at <a href="https://github.com/diyadas/HBC-regen">github.com/diyadas/HBC-regen</a> and <a href="https://github.com/rufletch/p63-HBC-diff">github.com/rufletch/p63-HBC-diff</a></li></span></ul>    
     <li>Participant, CDIPS Data Science Workshop, <b>UC Berkeley</b> (July 2016)</li>
     <ul><span style="font-size: medium;"> 
@@ -80,13 +77,17 @@ redirect_from:
      <li>California Institute for Regenerative Medicine (CIRM) Predoctoral Fellow</strong> (January 2015 - December 2015)</li>
     <li>Elizabeth Einstein Roboz Fellow</strong> (January 2015 - May 2015)</li>
 </ul>          
-<h2>Publications</h2> 
+<h2>Publications & Preprints</h2> 
     <p class="archive__item-excerpt" itemprop="description"><i>Asterisk indicates co-first authorship.</i></p>
 <ul>{% for post in site.publications reversed %} {% include archive-single-cv.html %} {% endfor %}</ul>
 
-    <h2>Presentations</h2> 
-     <a href = "#talks"><u>Talks</a></u> | <a href = "#tutorials"><u>Tutorials</u></a> | <a href = "#posters"><u>Posters</a></u>
-      
+
+<h2> Leadership</h2>
+<ul>{% for post in site.portfolio reversed %} {% include archive-single-port.html %} {% endfor %}</ul>
+
+<h2>Presentations</h2> 
+<a href = "#talks"><u>Talks</a></u> | <a href = "#tutorials"><u>Tutorials</u></a> | <a href = "#posters"><u>Posters</a></u>
+
 <a name="talks"></a><h3>Talks</h3> 
 <ul>{% for post in site.talks reversed %}
  {% if post.type == "Talk" %}
@@ -106,8 +107,6 @@ redirect_from:
  {% endif %}
     {% endfor %}</ul>
 
-<h2> Leadership</h2>
-<ul>{% for post in site.portfolio reversed %} {% include archive-single-port.html %} {% endfor %}</ul>
 
 <h2>Teaching</h2>
 <ul>{% for post in site.teaching reversed %} {% include archive-single-port.html %} {% endfor %}</ul>
